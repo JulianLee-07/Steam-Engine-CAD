@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# SolidWorks backup/temp files
+*.sldprt.bak
+*.sldasm.bak
+*.slddrw.bak
+*.bak
+~$*
+*.tmp
+
+# Temporary folders
+temp/
+backup/
