@@ -4,10 +4,6 @@ This project is a complete SolidWorks CAD design featuring a full mechanical ass
 
 ## Preview
 
-![Isometric View](exports/images/isometric-view.png)
-
-## Assembly Animation
-
 [Watch the assembly animation](media/assembly-animation.mp4)
 
 [![Assembly Animation Thumbnail](media/animation-thumbnail.png)](media/assembly-animation.mp4)
